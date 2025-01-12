@@ -1,0 +1,6 @@
+Word Count ReportTotal words: 16
+Top 4 words:
+is - 3
+this - 2
+a - 2
+simple - 1
