@@ -1,3 +1,6 @@
+roster.db
+library.db
+
 # Environments
 .env
 .venv
